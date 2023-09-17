@@ -1,2 +1,2 @@
 # HelloGodot
-Hello, Gdot!
+Hello, Godot!
